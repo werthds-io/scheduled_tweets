@@ -286,7 +286,7 @@ DEPENDENCIES
   listen (~> 3.3)
   omniauth-rails_csrf_protection (~> 1.0)
   omniauth-twitter (~> 1.4)
-  pg
+  pg (~> 1.1)
   puma (~> 5.0)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.0)
